@@ -1,5 +1,5 @@
 program ex0838
-    implict none
+    implicit none
 
     call sub()
     call mid()
@@ -8,7 +8,7 @@ program ex0838
 end
 
 subroutine sub()
-    implict none
+    implicit none
 
     write(*,*) "Hello."
 
