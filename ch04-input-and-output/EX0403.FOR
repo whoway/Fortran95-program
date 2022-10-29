@@ -1,0 +1,4 @@
+PROGRAM ex0403
+WRITE(*,*) 'Hello'
+STOP
+END
